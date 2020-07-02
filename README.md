@@ -1,8 +1,8 @@
 # Regular Expressions
 
-###### v0.0.1
+###### v0.0.2
 
-
+[link](https://anufriTan.github.io)
 
 ### Инструкция по запуску проекта
 1. Откройте файл index.html в браузере. 
